@@ -2,7 +2,7 @@ import React from "react"
 
 function Login () {
     return(
-        <div>
+        <div style={{marginTop:"100px", backgroundColor:"white", maxWidth:"80%", marginLeft: "30%", marginRight:"30%", padding:"5px"}}>
             <form>
             <label>Masukan Nama:</label>
             <input type="text"/>

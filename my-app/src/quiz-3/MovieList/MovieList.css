@@ -1,0 +1,33 @@
+h1{
+    text-align: center;
+    margin-top: 80px;
+  }
+  
+  th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+    width: 100px;
+    height: 20px;
+    word-wrap: break-word;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  
+  table {
+    border-collapse: collapse;
+    word-wrap: break-word;
+    margin: 0 auto;
+    table-layout: fixed;
+    width: 100px;
+  }
+  
+  form{
+    text-align: center;
+  }
+  
+  label{
+    font-weight: bold;
+    margin-right: 10px;
+  }
